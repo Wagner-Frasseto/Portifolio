@@ -13,16 +13,16 @@
     <header class="container text-center">
         <img src="img/avatar-perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150" srcset="">
         <p class="lead">Eu sou Wagner_</p>
-        <h1>Eu ensino matemática</h1>
-        <p>Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional para estudantes do Ensino
-            Fundamental e Médio. Ensino sobre pensamento computacional usando HTML, CSS e JavaScript. Veja os projetos
-            que já desenvolvi!</p>
+        <h1>Eu ensino Matemática</h1>
+        <p>Sou Matemático e Pedagogo. Ensino pmatemática para estudantes do Ensino
+            Fundamental e Médio. Ensino matemática para o Enem, Vestibulares, Concursos, entre outros!</p>
         <p>Minhas habilidades</p>
         <div>
-            <p class="badge bg-secondary">HTML</p>
-            <p class="badge bg-secondary">CSS</p>
-            <p class="badge bg-secondary">JavaScript</p>
-            <p class="badge bg-secondary">Scratch</p>
+            <p class="badge bg-secondary">Algebra</p>
+            <p class="badge bg-secondary">Equações</p>
+            <p class="badge bg-secondary">Funções</p>
+            <p class="badge bg-secondary">Inequação</p>
+            <p class="badge bg-secondary">expressões</p>
         </div>
     </header>
     <main class="container">
